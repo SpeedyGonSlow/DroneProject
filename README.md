@@ -1,5 +1,7 @@
 # DroneProject
 
+[Code Challenge. Drone Project.docx](https://github.com/SpeedyGonSlow/DroneProject/files/9847606/Code.Challenge.Drone.Project.docx)
+
 Code Challenge: Drone Project
 
 Story Description:
@@ -76,5 +78,3 @@ along with the results (X, Y, Z) in a table summary for these inputs:
 268451837
 1073709032
 1073709087
-
-[Code Challenge. Drone Project.docx](https://github.com/SpeedyGonSlow/DroneProject/files/9847606/Code.Challenge.Drone.Project.docx)
